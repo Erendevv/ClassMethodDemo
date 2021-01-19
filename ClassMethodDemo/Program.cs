@@ -26,7 +26,7 @@ namespace ClassMethodDemo
             musteriManager.MusteriSil(Berk);
             Console.WriteLine("**************************");
             musteriManager.MusteriListele(musteriler);
-
+         
         }
     }
 }
